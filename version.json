@@ -2,6 +2,5 @@
   "versionCode":9,
   "versionName":"1.1.7",
   "url":"http://38.146.25.234/slingtv.apk",
-  "changelog":" Added video as intro
- Added token exchange for no expired tokens"
+  "changelog":" Added Playback Quality in settings"
 }
