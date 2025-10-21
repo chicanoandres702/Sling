@@ -2,5 +2,6 @@
   "versionCode":9,
   "versionName":"1.1.8",
   "url":"http://38.146.25.234/slingtv.apk",
-  "changelog":" Added Playback Quality in settings"
+  "changelog":"-Fixed self update feature and implemented flexible updates
+-Fixed beginning focus to focus on categories first"
 }
